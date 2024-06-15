@@ -5,9 +5,6 @@ function Home() {
   return (
     <div className="">
       <h1>Homeas</h1>
-      <h1>Homeas</h1>
-      <h1>Homeas</h1>
-      <h1>Homeas</h1>
     </div>
   );
 }
